@@ -10,14 +10,24 @@
 
 
 
-function hello1(){
-    return "Hello";
+// function hello1(){
+//     return "Hello";
+// }
+
+
+// function hello2(a , b){
+//     console.log(a() + b);
+// }
+
+
+// hello2(hello1 , "manoj")
+
+
+
+function sayHello(){
+   return () => {
+         console.log("Hello");
+   };
 }
 
-
-function hello2(a , b){
-    console.log(a() + b);
-}
-
-
-hello2(hello1 , "manoj")
+sayHello()();
