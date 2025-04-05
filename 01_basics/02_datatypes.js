@@ -30,4 +30,5 @@ let isLoggedIn = false;
 
 console.log(typeof null);
 
+console.error
 
