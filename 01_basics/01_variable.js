@@ -10,5 +10,4 @@ console.table([accountId,accountEmail,accoutPassword,accountCity])
 
 /*
 Prefer not to use var
-bacouse of issue in block scope and funtianl scope
-*/
+bacouse of issue in block scope and funtianl 
