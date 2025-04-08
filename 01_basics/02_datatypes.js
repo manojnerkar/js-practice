@@ -6,13 +6,7 @@
 // console.log(3
     
     +3); // code readabilty  should be high
-// console.log("Hello");
 
-
-
-let namle = "Manoj"
-let age = 28;
-let isLoggedIn = false;
 
 
 /*
