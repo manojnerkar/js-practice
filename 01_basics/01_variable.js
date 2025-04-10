@@ -5,9 +5,4 @@ var accoutPassword = "12345";
 accoutPassword = "12345";
 accountCity = "Pimpalner";
 
-console.table([accountId,accountEmail,accoutPassword,accountCity]) 
-
-
-/*
-Prefer not to use var
-bacouse of issue in block scope and funtianl 
+ 
