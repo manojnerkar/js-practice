@@ -15,7 +15,7 @@
 // }
 
 
-// function hello2(a , b){
+// function hello2(a , b)
 //     console.log(a() + b);
 // }
 
